@@ -1,2 +1,2 @@
-# prework-study-Guide
+# prework-study
 A prework activity
